@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "18808224994",
+    "firebase_url": "https://fir-login-83a76.firebaseio.com",
+    "project_id": "fir-login-83a76",
+    "storage_bucket": "fir-login-83a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18808224994:android:0f18e5f393328cd6",
+        "android_client_info": {
+          "package_name": "com.bones.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18808224994-54mqfd04ds41l3em48h4lc90iq9qu42c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bones.firebaselogin",
+            "certificate_hash": "8e9b35cc36c70ee83de4b2ec294b20d9ceb9e594"
+          }
+        },
+        {
+          "client_id": "18808224994-cvl2uatonqijt79herdfjgjthk8jhc0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIv1_EIguuWpPLvlrd26u3KFu_X02Pfro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18808224994-cvl2uatonqijt79herdfjgjthk8jhc0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
